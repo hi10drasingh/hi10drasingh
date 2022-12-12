@@ -13,8 +13,8 @@ I'm a full-stack developer with 3+ years of experience in building websites and 
 * 🤝  I'm open to collaborating on Golang, PHP, Laravel, React, Node
 * ⚡  Heath >>>>>>>>>>>>>>>>>> Everything
 
-<a href="https://www.github.com/hitendrarao" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hitendrarao?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/hi10dra_singh/" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/hi10drasingh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hi10drasingh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/hi10dra_singh/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hi10dra_singh/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -44,23 +44,23 @@ src="https://img.shields.io/twitter/follow/hi10dra_singh/?logo=twitter&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/hi10dra#6403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/hi10drasingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/hitendrarao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hi10dra-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20759701/hitendra-pal-singh-rao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hi10dra_singh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/hi10dra#6403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/hi10drasingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/hi10drasingh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hi10dra-singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20759701/hitendra-pal-singh-rao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hi10dra_singh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hitendrarao"><img src="https://github-readme-stats-hi10drasingh.vercel.app/api?username=hi10drasingh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hitendrarao's GitHub stats" /></a>
+<a href="http://www.github.com/hi10drasingh"><img src="https://github-readme-stats-hi10drasingh.vercel.app/api?username=hi10drasingh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hi10drasingh's GitHub stats" /></a>
 
-<a href="http://www.github.com/hitendrarao"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendrarao&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/hi10drasingh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hi10drasingh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/hitendrarao"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hi10drasingh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/hi10drasingh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hi10drasingh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/hitendrarao" align="left"><img src="https://github-readme-stats-hi10drasingh.vercel.app/api/top-langs/?username=hi10drasingh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/hi10drasingh" align="left"><img src="https://github-readme-stats-hi10drasingh.vercel.app/api/top-langs/?username=hi10drasingh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/hitendrarao/location" align="left"><img align="left" width="45%" src="https://github-readme-stats-hi10drasingh.vercel.app/api/pin/?username=hi10drasingh&repo=location&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/hi10drasingh/location" align="left"><img align="left" width="45%" src="https://github-readme-stats-hi10drasingh.vercel.app/api/pin/?username=hi10drasingh&repo=location&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
