@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hi10drasingh](https://github.com/hi10drasingh)
 
-- 📝 I regularly write articles on [https://dev.to/hi10drasingh](https://dev.to/hi10drasingh)
-
 - 💬 Ask me about **React, jQuery, Node, Golang, PHP**
 
 - 📫 How to reach me **hi10drasingh@gmail.com**
