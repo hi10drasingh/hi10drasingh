@@ -57,9 +57,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hi10drasingh" alt="hi10drasingh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hi10drasingh&rank=-?,-C&margin-w=15&theme=onedark" alt="hi10drasingh" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-hi10drasingh.vercel.app/api?username=hi10drasingh&show_icons=true&locale=en&hide=stars" />
-  <img src="https://github-readme-stats-hi10drasingh.vercel.app/api/top-langs?username=hi10drasingh&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hi10drasingh" />
+  <img height="150" src="https://github-readme-stats-hi10drasingh.vercel.app/api?username=hi10drasingh&show_icons=true&locale=en&hide=stars" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-hi10drasingh.vercel.app/api/top-langs?username=hi10drasingh&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=hi10drasingh" alt="GitHub Streak" />
 </p>
