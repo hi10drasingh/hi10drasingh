@@ -68,6 +68,6 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img height="150" src="https://github-readme-stats-hi10drasingh.vercel.app/api?username=hi10drasingh&show_icons=true&locale=en&hide=stars" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats-hi10drasingh.vercel.app/api/top-langs?username=hi10drasingh&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats-hi10drasingh.vercel.app/api/top-langs?username=hi10drasingh&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Top Languages" />
 <!--   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=hi10drasingh" alt="GitHub Streak" /> -->
 </div>
