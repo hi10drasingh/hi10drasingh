@@ -70,4 +70,4 @@
   <img height="150" src="https://github-readme-stats-hi10drasingh.vercel.app/api?username=hi10drasingh&show_icons=true&locale=en&hide=stars" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats-hi10drasingh.vercel.app/api/top-langs?username=hi10drasingh&layout=compact" alt="Top Languages" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=hi10drasingh" alt="GitHub Streak" />
-</p>
+</div>
